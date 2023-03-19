@@ -1,0 +1,6 @@
+====================Start compare====================
+Start time:03/31/22 13:52:55
+You choose compare image D:/tiếng việt/expect/7.png and D:/tiếng việt/real/7.png
+               -----               
+Result: 
+Two file compare is not equal

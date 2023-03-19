@@ -1,0 +1,6 @@
+====================Start compare====================
+Start time:12/13/22 22:52:54
+You choose compare image E:/toolcheckimage/images/modified_06.jpg and E:/toolcheckimage/images/original_06.jpg
+               -----               
+Result: 
+Two file compare is not equal

@@ -1,0 +1,6 @@
+====================Start compare====================
+Start time:03302022_161429
+You choose compare image D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/images/modified_05.png and D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/images/original_05.png
+               -----               
+Result: 
+Two file compare is not equal

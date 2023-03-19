@@ -1,0 +1,28 @@
+====================Start compare====================
+Start time:03/31/22 13:57:39
+You choose compare two folder.
+               *****               
+Total file in folder /expect with path D:/OSSツール/expect/ : 21
+Total file in folder /real with path D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\real : 5
+               -----               
+File 10.png is not matching.
+File image evidence diff is D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\result\result_10.png
+               -----               
+File 7.png is not matching.
+File image evidence diff is D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\result\result_7.png
+               -----               
+File original_05.png not same size.
+
+               *****               
+Number of Files exist only in /expect folder: 18
+List of Files exist only in /expect folder: {'modified_05 - Copy - Copy.png', 'modified_02.png', 'modified_05 - Copy.png', '19.png', 'modified_03.png', 'modified_05.png', '37.png', 'original_06.jpg', '12_1.png', 'file.png', '73.png', 'modified_05 - Copy - Copy (2).png', 'original_01.png', 'modified_01.png', '46.png', '64.png', '28.png', '55.png'}
+Number of Files exist only in /real folder: 2
+List of Files exist only in /real folder: {'7.1.png', 'original_03.png'}
+               *****               
+Files have not same size: 1 - ['original_05.png']
+Not matching files: 2 - ['10.png', '7.png']
+Matching file: 0 - []
+Error File(can not be compared): 0 - []
+               *****               
+End time:03/31/22 13:57:40
+====================End compare====================

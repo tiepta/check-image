@@ -1,0 +1,206 @@
+You choose D:/tiếng việt/expect/7.png
+You choose D:/tiếng việt/real/7.png
+------------------Begin------------------
+Start time:03/30/22 11:28:37
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+Notice: run compare two file successful
+------------------End------------------
+You choose D:/OSSツール/expect/10.png
+You choose D:/OSSツール/real/10.png
+------------------Begin------------------
+Start time:03/30/22 11:29:19
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9993174482533879
+Filename: 10.png
+Notice: run compare two file successful
+------------------End------------------
+mode run: 1 
+------------------Begin------------------
+Start time:03/30/22 11:33:34
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+File D:/tiếng việt/expect/original_05.png and file D:/tiếng việt/real/original_05.png compare not same size.
+Notice:Run compare two folder successful
+------------------End------------------
+Image file /expert get by request param with: D:/tiếng việt/expect/7.png
+Image file /real get by request param with: D:/tiếng việt/real/7.png
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+File of folder /expert get by request param
+File of folder /real get by request param
+File of folder /result get by request param
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+File D:/OSSツール/expect//original_05.png and file D:/OSSツール/real//original_05.png compare not same size.
+File of folder /expert get by request param
+File of folder /real get by request param
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+File D:/OSSツール/expect//original_05.png and file D:/OSSツール/real//original_05.png compare not same size.
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+File of folder /expert get by folder default
+File of folder /real get by folder default
+File of folder /result get by request param
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 1
+replace success
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 2
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 2
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 2
+Notice:Exist same filename in backup folder, do you want to replace it?
+use click code 2
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+replace success
+replace success
+replace success
+replace success
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+replace success
+replace success
+replace success
+replace success
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+mode run: 0 
+mode run: 1 
+------------------Begin------------------
+Start time:03/30/22 14:52:19
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022_145237
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022_145256
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+Image file /expert get by request param with: D:/tiếng việt/expect/7.png
+Image file /real get by request param with: D:/tiếng việt/real/7.png
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022_145333
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+Image file /expert get by request param with: D:/tiếng việt/expect/7.png
+Image file /real get by request param with: D:/tiếng việt/real/7.png
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022_145642
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+Image file /expert get by request param with: D:/tiếng việt/expect/7.png
+Image file /real get by request param with: D:/tiếng việt/real/7.png
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022_145726
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+Image file /expert get by request param with: D:/tiếng việt/expect/7.png
+Image file /real get by request param with: D:/tiếng việt/real/7.png
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022_145911
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+Image file /expert get by request param with: D:/tiếng việt/expect/7.png
+Image file /real get by request param with: D:/tiếng việt/real/7.png
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022_150112
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+mode run: 0 
+You choose D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/images/modified_05.png
+You choose D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/images/original_05.png
+------------------Begin------------------
+Start time:03/30/22 16:14:25
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03302022_161429
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.998249140937831
+Filename: modified_05.png
+Notice: run compare two file successful
+------------------End------------------

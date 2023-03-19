@@ -1,0 +1,6 @@
+mode run: 0 
+mode run: 1 
+------------------Begin------------------
+Start time:03/22/22 17:53:19
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/backup/backup_03222022
+source folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/result

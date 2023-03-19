@@ -1,0 +1,37 @@
+mode run: 0 
+You choose D:/TaiLieuDuAn-Neo/10. Report/OSSToolïÒçê/Data test/No4/7.1.png
+You choose D:/TaiLieuDuAn-Neo/10. Report/OSSToolïÒçê/Data test/No4/7.png
+------------------Begin------------------
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/backup/backup_03162022
+source folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/real
+mode run: 0 
+You choose D:/TaiLieuDuAn-Neo/10. Report/OSSToolïÒçê/Data test/No4/7.1.png
+You choose D:/TaiLieuDuAn-Neo/10. Report/OSSToolïÒçê/Data test/No4/7.png
+------------------Begin------------------
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/backup/backup_03162022
+source folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/real
+You choose C:/Users/utntz/Downloads/7.png
+mode run: 0 
+You choose C:/Users/utntz/Downloads/Data test/No4/ñºëOàÍív/7.png
+You choose C:/Users/utntz/Downloads/Data test/No4/7.png
+You choose C:/Users/utntz/Downloads/Data test/No4/7.1.png
+------------------Begin------------------
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/backup/backup_03162022
+source folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/real
+You choose C:/Users/utntz/Downloads/Data_test/No4/7.1.png
+You choose C:/Users/utntz/Downloads/Data_test/No4/7.png
+------------------Begin------------------
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/backup/backup_03162022
+source folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/result
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\TaiLieuDuAn-Neo\08. Investigation\Tool\toolcheckimage/real
+The SSIM: 0.989573163407297
+Filename: 7.1.png
+Notice: run with mode 0 done
+------------------End------------------

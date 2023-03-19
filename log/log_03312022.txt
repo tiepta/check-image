@@ -1,0 +1,157 @@
+mode run: 0 
+You choose D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/images/modified_03.png
+You choose D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/images/original_03.png
+------------------Begin------------------
+Start time:03/31/22 09:48:13
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.973489885501106
+Filename: modified_03.png
+Error005: the file is exist
+Error005:the file is exist
+Notice: run compare two file successful
+------------------End------------------
+mode run: 0 
+You choose D:/tiếng việt/expect/7.png
+You choose D:/tiếng việt/real/7.png
+------------------Begin------------------
+Start time:03/31/22 09:53:01
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+mode run: 0 
+You choose D:/test/expect/10.png
+You choose D:/tiếng việt/real/10.png
+------------------Begin------------------
+Start time:03/31/22 09:54:28
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9993174482533879
+Filename: 10.png
+Error005: the file is exist
+Error005:the file is exist
+Notice: run compare two file successful
+------------------End------------------
+mode run: 0 
+You choose D:/tiếng việt/expect/7.png
+You choose D:/tiếng việt/real/7.png
+------------------Begin------------------
+Start time:03/31/22 09:54:57
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+mode run: 0 
+You choose D:/tiếng việt/expect/7.png
+You choose D:/tiếng việt/real/7.png
+------------------Begin------------------
+Start time:03/31/22 13:18:43
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+Error005: the file is exist
+Error005:the file is exist
+Notice: run compare two file successful
+------------------End------------------
+mode run: 0 
+You choose D:/tiếng việt/expect/7.png
+You choose D:/tiếng việt/real/7.png
+------------------Begin------------------
+Start time:03/31/22 13:26:46
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+Notice: run compare two file successful
+------------------End------------------
+mode run: 1 
+------------------Begin------------------
+Start time:03/31/22 13:28:23
+Error 001:Folder Expect is not selected.
+------------------End------------------
+------------------Begin------------------
+Start time:03/31/22 13:28:35
+Notice:Run compare two folder successful
+------------------End------------------
+mode run: 0 
+mode run: 1 
+------------------Begin------------------
+Start time:03/31/22 13:30:02
+Notice:Run compare two folder successful
+------------------End------------------
+mode run: 0 
+You choose D:/tiếng việt/expect/7.png
+You choose D:/tiếng việt/real/7.png
+------------------Begin------------------
+Start time:03/31/22 13:49:45
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_134945
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\result\
+mode run: 0 
+You choose D:/tiếng việt/expect/7.png
+You choose D:/tiếng việt/real/7.png
+------------------Begin------------------
+Start time:03/31/22 13:51:09
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_135109
+source folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\result\
+mode run: 0 
+You choose D:/tiếng việt/expect/7.png
+You choose D:/tiếng việt/real/7.png
+------------------Begin------------------
+Start time:03/31/22 13:52:55
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_135255
+source folder: D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\result\
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+Notice: run compare two file successful
+------------------End------------------
+You choose D:/OSSツール/expect/10.png
+You choose D:/OSSツール/real/10.png
+------------------Begin------------------
+Start time:03/31/22 13:53:33
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_135333
+source folder: D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\result\
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9993174482533879
+Filename: 10.png
+Notice: run compare two file successful
+------------------End------------------
+mode run: 1 
+------------------Begin------------------
+Start time:03/31/22 13:54:24
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_135424
+source folder: D:/tiếng việt/test/
+File D:/tiếng việt/expect/original_05.png and file D:/tiếng việt/real/original_05.png compare not same size.
+Notice:Run compare two folder successful
+------------------End------------------
+------------------Begin------------------
+Start time:03/31/22 13:56:29
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_135629
+source folder: D:/tiếng việt/test/
+File D:/tiếng việt/expect/original_05.png and file D:/tiếng việt/real/original_05.png compare not same size.
+Notice:Run compare two folder successful
+------------------End------------------
+File of folder /expert get by request param
+File of folder /real get by folder default
+File of folder /result get by folder default
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_135739
+source folder: D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\result\
+File D:/OSSツール/expect//original_05.png and file D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\real/original_05.png compare not same size.
+Image file /expert get by request param with: D:/tiếng việt/expect/7.png
+Image file /real get by request param with: D:/tiếng việt/real/7.png
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_135816
+source folder: D:\Neolightning-Ocl\08. Investigation\Tool\Toolcheckimage\result\
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/expect
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/real
+The score two file mapping: 0.9999449315941799
+Filename: 7.png
+File of folder /expert get by request param
+File of folder /real get by request param
+File of folder /result get by request param
+destination folder: D:\Neolightning-OCL\08. Investigation\Tool\toolcheckimage/backup/backup_03312022_150409
+source folder: D:/OSSツール/result_test_1000333443/
+File D:/OSSツール/expect//original_05.png and file D:/OSSツール/real//original_05.png compare not same size.

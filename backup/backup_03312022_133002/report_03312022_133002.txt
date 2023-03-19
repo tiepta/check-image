@@ -1,0 +1,12 @@
+====================Start compare====================
+Start time:03312022_133002
+You choose compare two folder.
+               *****               
+Total file in folder /expect with path D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/expect : 5
+Total file in folder /real with path D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/real : 5
+               -----               
+File 10.png is not matching.
+File image evidence diff is D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/result/result_10.png
+               -----               
+File 7.png is not matching.
+File image evidence diff is D:/Neolightning-OCL/08. Investigation/Tool/toolcheckimage/result/result_7.png

@@ -1,0 +1,40 @@
+mode run: 0 
+You choose E:/toolcheckimage/images/6776857.jpg
+You choose E:/toolcheckimage/images/equal_1MB.jpg
+------------------Begin------------------
+Start time:12/13/22 22:50:57
+destination folder: E:\toolcheckimage/backup/backup_12132022_225057
+source folder: E:\Toolcheckimage\result\
+destination folder: E:\toolcheckimage/expect
+destination folder: E:\toolcheckimage/real
+File E:/toolcheckimage/images/6776857.jpg and file E:/toolcheckimage/images/equal_1MB.jpg compare not same size.
+Error003:File E:/toolcheckimage/images/6776857.jpg and file E:/toolcheckimage/images/equal_1MB.jpg compare not same size.
+Notice: run compare two file successful
+------------------End------------------
+You choose E:/toolcheckimage/images/modified_06.jpg
+You choose E:/toolcheckimage/images/original_06.jpg
+------------------Begin------------------
+Start time:12/13/22 22:51:50
+destination folder: E:\toolcheckimage/backup/backup_12132022_225150
+source folder: E:\Toolcheckimage\result\
+destination folder: E:\toolcheckimage/expect
+destination folder: E:\toolcheckimage/real
+The score two file mapping: 0.9965183711817303
+Filename: modified_06.jpg
+Notice: run compare two file successful
+------------------End------------------
+------------------Begin------------------
+Start time:12/13/22 22:52:54
+destination folder: E:\toolcheckimage/backup/backup_12132022_225254
+source folder: E:\Toolcheckimage\result\
+destination folder: E:\toolcheckimage/expect
+destination folder: E:\toolcheckimage/real
+The score two file mapping: 0.9965183711817303
+Filename: modified_06.jpg
+Notice: run compare two file successful
+------------------End------------------
+mode run: 0 
+You choose E:/toolcheckimage/images/modified_06.jpg
+You choose E:/toolcheckimage/images/original_06.jpg
+------------------Begin------------------
+Start time:12/13/22 22:53:42

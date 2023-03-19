@@ -1,0 +1,28 @@
+====================Start compare====================
+Start time:03/31/22 13:54:24
+You choose compare two folder.
+               *****               
+Total file in folder /expect with path D:/tiếng việt/expect : 18
+Total file in folder /real with path D:/tiếng việt/real : 17
+               -----               
+File 10.png is not matching.
+File image evidence diff is D:/tiếng việt/test/result_10.png
+               -----               
+File 7.png is not matching.
+File image evidence diff is D:/tiếng việt/test/result_7.png
+               -----               
+File original_05.png not same size.
+
+               *****               
+Number of Files exist only in /expect folder: 6
+List of Files exist only in /expect folder: {'modified_03.png', 'modified_05 - Copy - Copy (2).png', 'modified_05 - Copy - Copy.png', 'modified_05 - Copy.png', 'modified_02.png', 'modified_05.png'}
+Number of Files exist only in /real folder: 5
+List of Files exist only in /real folder: {'original_03.png', 'original_02.png', 'original_03 - Copy (3).png', 'original_03 - Copy.png', 'original_03 - Copy (2).png'}
+               *****               
+Files have not same size: 1 - ['original_05.png']
+Not matching files: 2 - ['10.png', '7.png']
+Matching file: 9 - ['19.png', '28.png', '37.png', '46.png', '55.png', '64.png', '73.png', 'modified_01.png', 'original_01.png']
+Error File(can not be compared): 0 - []
+               *****               
+End time:03/31/22 13:54:29
+====================End compare====================

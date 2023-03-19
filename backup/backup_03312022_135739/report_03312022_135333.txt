@@ -1,0 +1,6 @@
+====================Start compare====================
+Start time:03/31/22 13:53:33
+You choose compare image D:/OSSツール/expect/10.png and D:/OSSツール/real/10.png
+               -----               
+Result: 
+Two file compare is not equal
